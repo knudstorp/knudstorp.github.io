@@ -2,7 +2,7 @@
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
-title: Søren Brinck Knudstorp8
+title: Søren Brinck Knudstorp9
 description: Søren's personal website
 
 # GitHub Pages settings
@@ -18,3 +18,6 @@ skin: "/assets/css/skins/default.css"
 #skin: "/assets/css/skins/light.css"
 
 date_format: "%d-%m-%Y"
+locale: en-us
+mathjax:
+  enable: true
