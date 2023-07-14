@@ -1,9 +1,6 @@
 ---
-#title: Contact
-layout: posts
+title: Contact
 permalink: /contact/
-show_excerpts: true
-entries_layout: list
 ---
 
 ## Office
