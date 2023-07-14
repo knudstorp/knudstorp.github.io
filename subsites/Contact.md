@@ -1,4 +1,11 @@
 ---
+image: 
+categories:
+  - Layout
+tags:
+  - content
+  - image
+  - layout
 title: Contact
 permalink: /contact/
 ---
@@ -15,4 +22,4 @@ permalink: /contact/
   Institute for Logic, Language and Computation <br /> University of Amsterdam<br /> Science Park 107<br /> 1098 XG Amsterdam<br /> The Netherlands
 </address>
 
-Send me an **email** at s.b.knudstorp [at] gmail [dot] com
+Send me an **email** at s.b.knudstorp [at] uva [dot] nl
