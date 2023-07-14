@@ -1,11 +1,11 @@
 # Site settings
 
 #theme: jekyll-theme-minimal
-#theme: jekyll-theme-so-simple
-#skin: "/assets/css/skins/default.css"
-#locale: en-US
+theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/default.css"
+locale: en-US
 
-title: Søren Brinck Knudstorp1
+title: Søren Brinck Knudstorp2
 description: Søren's personal website
 url: "https://knudstorp.github.io"
 
