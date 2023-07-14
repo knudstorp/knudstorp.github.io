@@ -2,7 +2,7 @@
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
-title: Søren Brinck Knudstorp16
+title: Søren Brinck Knudstorp17
 description: Søren's personal website
 
 # GitHub Pages settings
@@ -39,7 +39,7 @@ author:
 
 footer_links:
   - title: LinkedIn
-    url: https://www.linkedin.com/feed/
+    url: https://www.linkedin.com/in/s%C3%B8ren-brinck-knudstorp/
     icon: fab fa-linkedin
   - title: Twitter
     url: https://twitter.com/knudstorp
@@ -51,4 +51,4 @@ footer_links:
   #  url: atom.xml
   #  icon: fas fa-rss-square
 
-copyright: site.title
+copyright: "site.title"
