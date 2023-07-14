@@ -1,7 +1,5 @@
 ---
-title: Home
 layout: collection
-permalink: /home/
 collection: recipes
 entries_layout: grid
 ---
