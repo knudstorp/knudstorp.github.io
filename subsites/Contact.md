@@ -1,3 +1,11 @@
+---
+title: Contact
+layout: posts
+permalink: /contact/
+show_excerpts: true
+entries_layout: list
+---
+
 ## Office
 
 <address>
