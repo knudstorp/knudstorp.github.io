@@ -1,7 +1,10 @@
 # Site settings
-title: Your Website Title
-description: Your Website Description
+title: Søren Brinck Knudstorp
+description: Søren's personal website
 theme: jekyll-theme-minimal
 
 # GitHub Pages settings
-remote_theme: username/repository
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: mmistakes/so-simple-theme@3.2.0
