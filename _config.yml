@@ -11,3 +11,4 @@ plugins:
 remote_theme: mmistakes/so-simple-theme@3.2.0
 
 url: "https://knudstorp.github.io"
+logo: s-b-k-logo.png
