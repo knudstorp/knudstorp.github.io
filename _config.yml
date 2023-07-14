@@ -2,7 +2,7 @@
 title: Søren Brinck Knudstorp
 description: Søren's personal website
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
 date_format: "%B %-d, %Y"
