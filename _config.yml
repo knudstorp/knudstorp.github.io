@@ -2,7 +2,7 @@
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
-title: Søren Brinck Knudstorp6
+title: Søren Brinck Knudstorp7
 description: Søren's personal website
 
 # GitHub Pages settings
@@ -14,3 +14,4 @@ url: "https://knudstorp.github.io"
 logo: logo-no-background, resized.png
 
 skin: "/assets/css/skins/dark.css"
+date_format: "%d-%m-%Y"
