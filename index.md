@@ -1,12 +1,14 @@
-Is this the front page?
-
-
 ---
-title: Recipes
+title: Home
 layout: collection
-permalink: /recipes/
+permalink: /home/
 collection: recipes
 entries_layout: grid
 ---
+
+Is this the front page?
+
+
+
 
 Sample document listing for the collection `_recipes`.
