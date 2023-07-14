@@ -1,7 +1,7 @@
 # Site settings
 title: Søren Brinck Knudstorp
 description: Søren's personal website
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 
 # GitHub Pages settings
 plugins:
