@@ -5,6 +5,7 @@ description: Søren's personal website b1b
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
+date_format: "%B %-d, %Y"
 
 # GitHub Pages settings
 plugins:
@@ -12,3 +13,15 @@ plugins:
 
 remote_theme: mmistakes/so-simple-theme@3.2.0
 logo 
+
+
+# Site Author
+author:
+  name: Søren Brinck Knudstorp
+  picture:
+  email:
+  twitter:
+  links:
+    - title:
+      url:
+      icon:
