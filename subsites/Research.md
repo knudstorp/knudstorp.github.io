@@ -1,5 +1,5 @@
 ---
-title: Post Archive
+title: Research
 layout: posts
 permalink: /research/
 show_excerpts: true
