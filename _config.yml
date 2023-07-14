@@ -38,14 +38,17 @@ author:
   #picture: /images/johndoe.png
 
 footer_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/s%C3%B8ren-brinck-knudstorp/
+    icon: fa-brands fa-linkedin
   - title: Twitter
     url: https://twitter.com/knudstorp
     icon: fab fa-twitter-square
-  - title: GitHub
-    url: https://github.com/knudstorp
-    icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  #- title: GitHub
+  #  url: https://github.com/knudstorp
+  #  icon: fab fa-github-square
+  #- title: Feed
+  #  url: atom.xml
+  #  icon: fas fa-rss-square
 
-copyright: "This site is made with <3 by *me, myself, and I*."
+copyright: build_date_utc
