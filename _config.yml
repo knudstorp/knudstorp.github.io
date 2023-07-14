@@ -2,7 +2,7 @@
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
-title: Søren Brinck Knudstorp15
+title: Søren Brinck Knudstorp16
 description: Søren's personal website
 
 # GitHub Pages settings
@@ -36,3 +36,16 @@ author:
   name: Søren Brinck Knudstorp
   #twitter: johndoetwitter
   #picture: /images/johndoe.png
+
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/knudstorp
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/knudstorp
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+
+copyright: "This site is made with <3 by *me, myself, and I*."
