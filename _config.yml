@@ -3,6 +3,7 @@ title: Søren Brinck Knudstorp
 description: Søren's personal website
 #theme: jekyll-theme-minimal
 theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme@3.2.0
 skin: "/assets/css/skins/default.css"
 locale: en-US
 
@@ -10,4 +11,3 @@ locale: en-US
 plugins:
   - jekyll-remote-theme
 
-remote_theme: mmistakes/so-simple-theme@3.2.0
