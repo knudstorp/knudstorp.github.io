@@ -2,7 +2,7 @@
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
-title: Søren Brinck Knudstorp14
+title: Søren Brinck Knudstorp15
 description: Søren's personal website
 
 # GitHub Pages settings
@@ -30,3 +30,9 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+
+
+author:
+  name: Søren Brinck Knudstorp
+  #twitter: johndoetwitter
+  #picture: /images/johndoe.png
