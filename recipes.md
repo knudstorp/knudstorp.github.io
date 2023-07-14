@@ -1,7 +1,7 @@
 ---
 title: Recipes
 layout: collection
-permalink: /recipes/
+permalink: /teaching/
 collection: recipes
 entries_layout: grid
 ---
