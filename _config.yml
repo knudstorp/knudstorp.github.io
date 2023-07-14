@@ -4,7 +4,7 @@ description: Søren's personal website
 #theme: jekyll-theme-minimal
 
 # GitHub Pages settings
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 
 remote_theme: mmistakes/so-simple-theme@3.2.0
