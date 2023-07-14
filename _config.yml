@@ -2,7 +2,7 @@
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
-title: Søren Brinck Knudstorp23
+title: Søren Brinck Knudstorp25
 description: Søren's personal website
 
 # GitHub Pages settings
@@ -46,7 +46,13 @@ footer_links:
     icon: fab fa-twitter-square
   - title: Mail
     url: "mailto:s.b.knudstorp@uva.nl"
-    icon: fab fa-envelope  
+    icon: fab fa-envelope
+  - title: Mail2
+    url: "mailto:s.b.knudstorp@uva.nl"
+    icon: fa-solid fa-envelope
+  - title: Mail3
+    url: "mailto:s.b.knudstorp@uva.nl"
+    icon: fa-sharp fa-solid fa-envelope
   #- title: GitHub
   #  url: https://github.com/knudstorp
   #  icon: fab fa-github-square
