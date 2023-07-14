@@ -1,0 +1,7 @@
+# Site settings
+title: Your Website Title
+description: Your Website Description
+theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+remote_theme: username/repository
