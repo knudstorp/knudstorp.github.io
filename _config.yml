@@ -2,7 +2,7 @@
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
-title: Søren Brinck Knudstorp27
+title: Søren Brinck Knudstorp28
 description: Søren's personal website
 
 # GitHub Pages settings
@@ -38,18 +38,15 @@ author:
   #picture: /images/johndoe.png
 
 footer_links:
-  #- title: LinkedIn
+  - title: LinkedIn
     #url: https://www.linkedin.com/in/s%C3%B8ren-brinck-knudstorp/
     #icon: fab fa-linkedin
-  #- title: Twitter
+  - title: Twitter
     #url: https://twitter.com/knudstorp
     #icon: fab fa-twitter-square
-  - title: Email
-    url: https://twitter.com/knudstorp
-    icon: fab fa-envelope
-  - title: EMails
+  - title: Mail
     url: "mailto:s.b.knudstorp@uva.nl"
-    icon: fab fa-linkedin
+    icon: fab fa-envelope
   #- title: GitHub
   #  url: https://github.com/knudstorp
   #  icon: fab fa-github-square
