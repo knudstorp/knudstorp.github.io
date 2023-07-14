@@ -3,7 +3,7 @@
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme@3.2.0
-skin: "/assets/css/skins/default.css"
+#skin: "/assets/css/skins/default.css"
 locale: en-US
 
 title: Søren Brinck Knudstorp1
@@ -13,4 +13,3 @@ url: "https://knudstorp.github.io"
 # GitHub Pages settings
 plugins:
   - jekyll-remote-theme
-
