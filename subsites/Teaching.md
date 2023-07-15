@@ -1,9 +1,7 @@
 ---
 title: Teaching
-layout: posts
+layout: page
 permalink: /teaching/
-show_excerpts: true
-entries_layout: list
 ---
 
 
