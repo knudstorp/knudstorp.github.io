@@ -6,7 +6,6 @@ tags:
   - content
   - image
   - layout
-title: Contact
 permalink: /contact/
 ---
 
