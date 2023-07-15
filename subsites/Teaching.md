@@ -8,7 +8,7 @@ layout: page
 -----------
 
   * <big>**2022/23**
-      * [*Topology in and via Logic*](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html), University of Amsterdam, Coordinator and Lecturer
+      * [*Topology in and via Logic*](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}, University of Amsterdam, Coordinator and Lecturer
   * <big>**2021/22**
       * *Philosophical Logic*, University of Amsterdam, Teaching Assistant
       * *Introduction to Modal Logic*, University of Amsterdam, Teaching Assistant
