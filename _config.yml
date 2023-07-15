@@ -37,8 +37,8 @@ author:
   #twitter: johndoetwitter
   #picture: /images/johndoe.png
 
-header_links:
-  - favicon: favicon-32x32.png
+#header_links:
+# - favicon: favicon-32x32.png
 
 footer_links:
 #OBS: For icons, we use fontawesome v5 (v6 doesn't seem to work).
