@@ -1,5 +1,6 @@
 ---
 layout: collection
+collection: recipes
 entries_layout: grid
 ---
 
