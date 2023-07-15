@@ -3,8 +3,6 @@ permalink: /research/
 layout: page
 ---
 
-<big>**TALKS**
-
 <Big>**TALKS**
 
   * <big>**Upcoming**
@@ -16,10 +14,3 @@ layout: page
       * [*Modal Information Logics: Axiomatizations and Decidability*](/pdfs/LIRa presentation, Modal Information Logics. From MSc thesis.pdf), LIRa Seminar, **February 2023**
   * <big>**2022**
       *  [*Modal Information Logic: Decidability and Completeness*](/pdfs/Slides, MOSAIC, Søren Brinck Knudstorp.pdf), MOSAIC, **September 2022**
-
-| Talks | |
-| :--- | :--- |
-| <br /> <br /> <br /> <br /> *The Netherlands* |      |
-| :--- | :--- |
-
-
