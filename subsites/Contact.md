@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 layout: default
+site.description: Contactsss
 ---
 
 | Office| Mailing address |
