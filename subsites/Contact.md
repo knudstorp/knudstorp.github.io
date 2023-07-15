@@ -1,13 +1,10 @@
 ---
-layout: post
+layout: page
 image: 
 categories:
   - Layout
-tags:
-  - content
-  - image
-  - layout
 permalink: /contact/
+title: Contact
 ---
 
 ## Office
