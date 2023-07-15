@@ -3,9 +3,7 @@ permalink: /research/
 layout: page
 ---
 
-### Talksa
-
-<Big>**TALKS**
+#### <Big>TALKS
 
 -----------
 
