@@ -2,6 +2,7 @@
 layout: collection
 collection: recipes
 entries_layout: grid
+favicon: favicon-32x32.png
 ---
 
 I am a PhD candidate in Logic at the Institute for Logic, Language and Computation in Amsterdam, working under the supervision of [Maria Aloni](https://www.marialoni.org/){:target="_blank"} and [Nick Bezhanishvili](https://staff.fnwi.uva.nl/n.bezhanishvili/){:target="_blank"} as part of the [NihiL Project.](https://projects.illc.uva.nl/nihil/){:target="_blank"}
