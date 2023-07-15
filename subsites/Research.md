@@ -3,9 +3,9 @@ permalink: /research/
 layout: page
 ---
 
-***Talks***
+<big>**TALKS**<\big>
 
-  * List item one 
+  * **Upcoming**
       * List item one 
           * List item one
           * List item two
@@ -14,11 +14,11 @@ layout: page
       * List item two
       * List item three
       * List item four
-  * List item two
-  * List item three
+  * **2023**
+  * **2022**
   * List item four
 
-| Talks | Articles |
+| Talks | |
 | :--- | :--- |
 | <br /> <br /> <br /> <br /> *The Netherlands* |      |
 | :--- | :--- |
