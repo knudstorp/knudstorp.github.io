@@ -2,7 +2,7 @@
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
-title: Søren Brinck Knudstorp
+title: Søren Brinck Knudstorp1
 description: PhD · Institute for Logic, Language and Computation · University of Amsterdam
 
 # GitHub Pages settings
@@ -37,21 +37,12 @@ author:
   #twitter: johndoetwitter
   #picture: /images/johndoe.png
 
-footer_links:
-#OBS: For icons, we use fontawesome v5 (v6 doesn't seem to work).
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/s%C3%B8ren-brinck-knudstorp/{:target="_blank"}
-    icon: fab fa-linkedin-in
-  - title: Twitter
-    url: https://twitter.com/knudstorp{:target="_blank"}
-    icon: fab fa-twitter
-  - title: Mail
-    url: "mailto:s.b.knudstorp@uva.nl"
-    icon: fas fa-envelope
-  #- title: GitHub
-  #  url: https://github.com/knudstorp
-  #  icon: fab fa-github-square
-  #- title: Feed
-  #  url: atom.xml
-  #  icon: fas fa-rss-square
+<footer>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/s%C3%B8ren-brinck-knudstorp/" target="_blank"><i class="fab fa-linkedin-in"></i> LinkedIn</a></li>
+    <li><a href="https://twitter.com/knudstorp" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></li>
+    <li><a href="mailto:s.b.knudstorp@uva.nl" target="_blank"><i class="fas fa-envelope"></i> Mail</a></li>
+  </ul>
+</footer>
+
 copyright: "© 2023 Søren Brinck Knudstorp"
