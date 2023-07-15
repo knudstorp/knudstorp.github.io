@@ -10,3 +10,8 @@ I hold a [master's](https://eprints.illc.uva.nl/id/eprint/2226/) degree in Logic
 My interests span philosophy, mathematics, and logic, with a specific focus on their intersections. Currently, I am particularly interested in understanding how logics relate. 
 
 Sample document listing for the collection `_recipes`.
+
+
+![image-left]({{ '/images/blackboard, teaching, resized.jpg' | absolute_url }}){: .align-left}
+
+![image-right]({{ '/images/puzzle, research, resized.jpg' | absolute_url }}){: .align-right}
