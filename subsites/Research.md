@@ -3,7 +3,7 @@ permalink: /research/
 layout: page
 ---
 
-<big>**TALKS**<\big>
+<big>**TALKS**
 
   * **Upcoming**
       * List item one 
