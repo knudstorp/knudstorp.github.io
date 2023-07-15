@@ -40,10 +40,10 @@ author:
 footer_links:
 #OBS: For icons, we use fontawesome v5 (v6 doesn't seem to work).
   - title: LinkedIn
-    url: https://www.linkedin.com/in/s%C3%B8ren-brinck-knudstorp/
+    url: https://www.linkedin.com/in/s%C3%B8ren-brinck-knudstorp/{:target="_blank"}
     icon: fab fa-linkedin-in
   - title: Twitter
-    url: https://twitter.com/knudstorp
+    url: https://twitter.com/knudstorp{:target="_blank"}
     icon: fab fa-twitter
   - title: Mail
     url: "mailto:s.b.knudstorp@uva.nl"
