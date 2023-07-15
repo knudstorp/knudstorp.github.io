@@ -11,11 +11,11 @@ My interests span philosophy, mathematics, and logic, with a specific focus on t
 
 <figure style="width: 400px" class="align-left">
   <img src="{{ '/images/puzzle, research, resized.jpg' | absolute_url }}" alt="">
-  <figcaption>[Research](/research/)</figcaption>
+  <figcaption><a href="https://knudstorp.github.io/research/">Research</a></figcaption>
 </figure> 
 
 
 <figure style="width: 400px" class="align-right">
   <img src="{{ '/images/blackboard, teaching, resized.jpg' | absolute_url }}" alt="">
-  <figcaption>[Teaching](https://knudstorp.github.io/teaching/)</figcaption>
+  <figcaption><a href="https://knudstorp.github.io/teaching/">Teaching</a></figcaption>
 </figure> 
