@@ -1,15 +1,11 @@
 ---
 permalink: /contact/
-title: Contact2
+title: Contact3
 ---
 
 | Office| Mailing address |
 | ------------------------------------------------ | ------------------------------------------------- |
-| <address>
-  Room F1.15<br /> Building F<br /> Science Park 107<br /> 1098 XG Amsterdam<br /> The Netherlands
-</address> | <address>
-  Institute for Logic, Language and Computation <br /> University of Amsterdam<br /> Science Park 107<br /> 1098 XG Amsterdam<br /> The Netherlands
-</address> |
+| <address>Room F1.15<br /> Building F<br /> Science Park 107<br /> 1098 XG Amsterdam<br /> The Netherlands</address> | <address>Institute for Logic, Language and Computation <br /> University of Amsterdam<br /> Science Park 107<br /> 1098 XG Amsterdam<br /> The Netherlands</address> |
 
 ## Office
 
