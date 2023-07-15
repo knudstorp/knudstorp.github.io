@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Research
+layout: page
 permalink: /research/
-show_excerpts: true
-entries_layout: list
 ---
+
+## Talks
+
+
