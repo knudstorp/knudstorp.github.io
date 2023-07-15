@@ -1,8 +1,7 @@
 ---
 permalink: /contact/
-title: 
+title: Contact
 ---
-## Contact
 
 | Office| Mailing address |
 | :---: | :---: |
