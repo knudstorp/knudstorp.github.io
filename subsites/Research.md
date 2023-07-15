@@ -5,8 +5,10 @@ layout: page
 
 ###### Talks
 
-| <Big>**TALKS** | |
-| :---: | :---: |
+<Big>**TALKS**
+
+|  |  |
+
 
   * <big>**Upcoming**
       * *TBA*, LATD 2023, **September 2023**
