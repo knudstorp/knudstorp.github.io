@@ -3,7 +3,7 @@ permalink: /research/
 layout: page
 ---
 
-## Talks
+***Talks***
 
   * List item one 
       * List item one 
@@ -17,3 +17,10 @@ layout: page
   * List item two
   * List item three
   * List item four
+
+| Talks | Articles |
+| :--- | :--- |
+| <br /> <br /> <br /> <br /> *The Netherlands* |      |
+| :--- | :--- |
+
+
