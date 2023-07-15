@@ -3,9 +3,8 @@ permalink: /research/
 layout: page
 ---
 
-<Big>**TALKS**
 
-| | |
+| <Big>**TALKS** | |
 | :---: | :---: |
 
   * <big>**Upcoming**
