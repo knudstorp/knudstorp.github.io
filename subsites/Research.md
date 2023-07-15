@@ -3,12 +3,11 @@ permalink: /research/
 layout: page
 ---
 
-###### Talks
+### Talks
 
 <Big>**TALKS**
 
-|  |  |
-
+-----------
 
   * <big>**Upcoming**
       * *TBA*, LATD 2023, **September 2023**
