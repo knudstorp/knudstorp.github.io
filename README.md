@@ -11,3 +11,4 @@ Søren's personal website, based on So Simple's Jekyll theme
      * safari-pinned-tab.svg
      * site.webmanifest
      * apple-touch-icon.png
+  * _includes/footer has been copied from So Simple in order to make footer icons open in new tabs when clicked. This has been done by adding target="_blank" in code line 12.
