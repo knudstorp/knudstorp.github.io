@@ -2,7 +2,7 @@
 
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-so-simple
-title: Søren Brinck Knudstorp
+title: Søren Brinck Knudstorp1
 description: PhD · Institute for Logic, Language and Computation · University of Amsterdam
 
 # GitHub Pages settings
@@ -36,9 +36,6 @@ author:
   name: Søren Brinck Knudstorp
   #twitter: johndoetwitter
   #picture: /images/johndoe.png
-
-#header_links:
-# - favicon: favicon-32x32.png
 
 footer_links:
 #OBS: For icons, we use fontawesome v5 (v6 doesn't seem to work).
