@@ -16,4 +16,4 @@ layout: page
       * [*Logics of Truthmaker Semantics: Comparison, Compactness and Decidability*](/pdfs/Dutch Logic PhD Day, Logics of Truthmaker semantics, Søren Brinck Knudstorp.pdf){:target="_blank"}, Dutch Logic PhD Day 2023, **June 2023**
       * [*Modal Information Logics: Axiomatizations and Decidability*](/pdfs/LIRa presentation, Modal Information Logics. From MSc thesis.pdf){:target="_blank"}, LIRa Seminar, **February 2023**
   * <big>**2022**
-      *  [*Modal Information Logic: Decidability and Completeness*](/pdfs/Slides, MOSAIC, Søren Brinck Knudstorp.pdf){:target="_blank"}, MOSAIC, **September 2022**
+      *  [*Modal Information Logic: Decidability and Completeness*](/pdfs/Slides, MOSAIC, Søren Brinck Knudstorp.pdf){:target="_blank"} [*(abstract)*](/pdfs/Abstract, MOSAIC2022, Søren Brinck Knudstorp.pdf){:target="_blank"}, MOSAIC 2022, **September 2022**
