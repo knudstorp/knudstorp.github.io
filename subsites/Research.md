@@ -8,9 +8,10 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * *TBA*, LATD 2023, **September 2023**
-      * *TBA*, TbiLLC 2023, **September 2023**
+      * *Modal Information Logic of Incomparable Fusions* [*(abstract)*](/pdfs/Abstract, TbiLLC2023, Modal Information Logic of Incomparable Fusions.pdf){:target="_blank"}, TbiLLC 2023, **September 2023**
+      * *TBA*, The New York Philosophy of Language Workshop, **October 2023**
   * <big>**2023**
+      * [*Axiomatizing Modal Logic over Semilattices*](/pdfs/Slides, LATD2023, Axiomatizing Modal Logic over Semilattices.pdf){:target="_blank"} [*(abstract)*](/pdfs/Abstract, LATD2023, Søren Brinck Knudstorp.pdf){:target="_blank"}, LATD 2023, **September 2023**
       * [*BSML and Expressive Completeness*](/pdfs/NihiL presentation, with Aleksi Anttila, Convexity.pdf){:target="_blank"}, joint talk with Aleksi Anttila, NihiL Seminar, **June 2023**
       * [*Logics of Truthmaker Semantics: Comparison, Compactness and Decidability*](/pdfs/Dutch Logic PhD Day, Logics of Truthmaker semantics, Søren Brinck Knudstorp.pdf){:target="_blank"}, Dutch Logic PhD Day 2023, **June 2023**
       * [*Modal Information Logics: Axiomatizations and Decidability*](/pdfs/LIRa presentation, Modal Information Logics. From MSc thesis.pdf){:target="_blank"}, LIRa Seminar, **February 2023**
