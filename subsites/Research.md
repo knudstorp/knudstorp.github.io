@@ -8,7 +8,7 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * *Modal Information Logic of Incomparable Fusions* [*(abstract)*](/pdfs/Abstract, TbiLLC2023, Modal Information Logic of Incomparable Fusions.pdf){:target="_blank"}, TbiLLC 2023, **September 2023**
+      * [*Modal Information Logic of Incomparable Fusions*](/pdfs/TbiLLC 2023, Slides, Modal Information Logic of Incomparable Fusions.pdf){:target="_blank"} [*(abstract)*](/pdfs/Abstract, TbiLLC2023, Modal Information Logic of Incomparable Fusions.pdf){:target="_blank"}, TbiLLC 2023, **September 2023**
       * *TBA*, The New York Philosophy of Language Workshop, **October 2023**
   * <big>**2023**
       * [*Axiomatizing Modal Logic over Semilattices*](/pdfs/Slides, LATD2023, Axiomatizing Modal Logic over Semilattices.pdf){:target="_blank"} [*(abstract)*](/pdfs/Abstract, LATD2023, Søren Brinck Knudstorp.pdf){:target="_blank"}, LATD 2023, **September 2023**
