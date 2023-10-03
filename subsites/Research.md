@@ -12,10 +12,7 @@ layout: page
   * <big>**Lecture notes**
       * *Topology Project Lecture Notes*, Master of Logic, ILLC, taught with Rodrigo Nicolau Almeida [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
 
-
 <br />
-<br />
-
 
 #### <Big>TALKS
 
