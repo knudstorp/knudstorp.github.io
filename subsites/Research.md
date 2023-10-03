@@ -10,7 +10,7 @@ layout: page
   * <big>**Papers**
       * *Modal Information Logics: Axiomatizations and Decidability*, forthcoming in *Journal of Philosophical Logic* [*[draft]*](/pdfs/Modal Information Logics. Axiomatizations and Decidability.pdf){:target="_blank"}
   * <big>**Lecture notes**
-      * [Topology Project Lecture Notes](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"}, Master of Logic, ILLC, taught with Rodrigo Nicolau Almeida
+      * [Topology Project Lecture Notes](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"}, Master of Logic, ILLC, taught with Rodrigo Nicolau Almeida [*[website]*](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
 
 
 #### <Big>TALKS
