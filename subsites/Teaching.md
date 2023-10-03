@@ -7,6 +7,7 @@ layout: page
 
 -----------
   * <big>**2023/24**
+      * *Topology in and via Logic*, University of Amsterdam, Coordinator and Lecturer
       * *Mathematical Structures in Logic*, University of Amsterdam, Teaching Assistant
       * *Structures for Semantics*, University of Amsterdam, Teaching Assistant
   * <big>**2022/23**
