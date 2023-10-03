@@ -6,7 +6,9 @@ layout: page
 #### <Big>TEACHING
 
 -----------
-
+  * <big>**2023/24**
+      * *Mathematical Structures in Logic*, University of Amsterdam, Teaching Assistant
+      * *Structures for Semantics*, University of Amsterdam, Teaching Assistant
   * <big>**2022/23**
       * *Topology in and via Logic*, University of Amsterdam, Coordinator and Lecturer [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
   * <big>**2021/22**
