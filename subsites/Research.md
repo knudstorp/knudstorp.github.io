@@ -8,7 +8,8 @@ layout: page
 -----------
 
   * <big>**Papers**
-      * *Modal Information Logics: Axiomatizations and Decidability*, forthcoming in *Journal of Philosophical Logic* [[draft]](/pdfs/Modal Information Logics. Axiomatizations and Decidability.pdf){:target="_blank"}
+      * *Logics of Truthmaker Semantics: Comparison, Compactness and Decidability*, forthcoming in *Synthese* [[draft]](/pdfs/Logics of Truthmaker Semantics. Comparison, Compactness and Decidability.pdf){:target="_blank"}
+      * * *Modal Information Logics: Axiomatizations and Decidability*, forthcoming in *Journal of Philosophical Logic* [[draft]](/pdfs/Modal Information Logics. Axiomatizations and Decidability.pdf){:target="_blank"}
   * <big>**Lecture notes**
       * *Topology Project Lecture Notes*, Master of Logic, ILLC, taught with Rodrigo Nicolau Almeida [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
 
@@ -18,9 +19,10 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * *Modal Information Logics: Axiomatizations and Decidability*, GALAI Seminar, Chapman University, **October 18, 2023**
+      * Stay tuned :-)
   * <big>**2023**
-      * *Logics of Truthmaker Semantics: Comparison, Compactness and Decidability*, The New York Philosophy of Language Workshop, **October 2023**
+      * *Modal Information Logics: Axiomatizations and Decidability*, GALAI Seminar, Chapman University, **October 2023** [[slides]](/pdfs/Slides, GALAI, Chapman, Modal Information Logics.pdf){:target="_blank"}
+      * *Logics of Truthmaker Semantics: Comparison, Compactness and Decidability*, The New York Philosophy of Language Workshop, **October 2023** [[slides]](/pdfs/Slides, the New York Philosophy of Language Workshop, Logics of Truthmaker Semantics.pdf){:target="_blank"}
       * *Modal Information Logic of Incomparable Fusions*, TbiLLC 2023, **September 2023** [[slides]](/pdfs/TbiLLC 2023, Slides, Modal Information Logic of Incomparable Fusions.pdf){:target="_blank"} [[abstract]](/pdfs/Abstract, TbiLLC2023, Modal Information Logic of Incomparable Fusions.pdf){:target="_blank"}
       * *Axiomatizing Modal Logic over Semilattices*, LATD 2023, **September 2023** [[slides]](/pdfs/Slides, LATD2023, Axiomatizing Modal Logic over Semilattices.pdf){:target="_blank"} [[abstract]](/pdfs/Abstract, LATD2023, Søren Brinck Knudstorp.pdf){:target="_blank"}
       * *BSML and Expressive Completeness*, joint talk with Aleksi Anttila, NihiL Seminar, **June 2023** [[slides]](/pdfs/NihiL presentation, with Aleksi Anttila, Convexity.pdf){:target="_blank"}
