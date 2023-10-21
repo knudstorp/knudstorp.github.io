@@ -11,7 +11,7 @@ layout: page
       * "Logics of Truthmaker Semantics: Comparison, Compactness and Decidability", forthcoming in *Synthese* [[draft]](/pdfs/Logics of Truthmaker Semantics. Comparison, Compactness and Decidability.pdf){:target="_blank"}
       * "Modal Information Logics: Axiomatizations and Decidability", forthcoming in *Journal of Philosophical Logic* [[draft]](/pdfs/Modal Information Logics. Axiomatizations and Decidability.pdf){:target="_blank"}
   * <big>**Lecture notes**
-      * Lecture Notes for Topology Project, Master of Logic, ILLC, taught with Rodrigo N. Almeida [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
+      * Topology Project Lecture Notes, Master of Logic, ILLC, taught with Rodrigo N. Almeida [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
 
 <br />
 #### <Big>TALKS
