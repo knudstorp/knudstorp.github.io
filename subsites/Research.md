@@ -20,7 +20,7 @@ layout: page
 
   * <big>**Upcoming**
       * "Modal Information Logics", *Annual VvL Seminar*, December 08, 2023
-      * TBD, *Nihil Workshop*, January 31 - February 02, 2024
+      * TBD, *NihiL Workshop*, January 31 - February 02, 2024
   * <big>**2023**
       * "Modal Information Logics: Axiomatizations and Decidability", *GALAI Seminar*, Chapman University, October 18 [[slides]](/pdfs/Slides, GALAI, Chapman, Modal Information Logics.pdf){:target="_blank"}
       * "Logics of Truthmaker Semantics: Comparison, Compactness and Decidability", *The New York Philosophy of Language Workshop*, October 09 [[slides]](/pdfs/Slides, the New York Philosophy of Language Workshop, Logics of Truthmaker Semantics.pdf){:target="_blank"}
