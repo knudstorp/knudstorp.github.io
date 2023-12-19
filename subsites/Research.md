@@ -8,7 +8,7 @@ layout: page
 -----------
 
   * <big>**Papers**
-      * "Logics of Truthmaker Semantics: Comparison, Compactness and Decidability", forthcoming in *Synthese* [[draft]](/pdfs/Logics of Truthmaker Semantics. Comparison, Compactness and Decidability.pdf){:target="_blank"}
+      * "Logics of Truthmaker Semantics: Comparison, Compactness and Decidability", *Synthese, 202*, 206, 2023 [[view-only]](https://rdcu.be/dtElw){:target="_blank"} [[draft]](/pdfs/Logics of Truthmaker Semantics. Comparison, Compactness and Decidability.pdf){:target="_blank"}
       * "Modal Information Logics: Axiomatizations and Decidability", *Journal of Philosophical Logic, 52*, 1723-1766, 2023 [[open access]](https://doi.org/10.1007/s10992-023-09724-5){:target="_blank"}
   * <big>**Lecture notes**
       * Topology Project Lecture Notes, Master of Logic, ILLC, jointly authored with Amity Aharoni and Rodrigo N. Almeida [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
