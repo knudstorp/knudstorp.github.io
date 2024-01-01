@@ -7,7 +7,7 @@ layout: page
 
 -----------
   * <big>**2023/24**
-      * *Topology in and via Logic*, University of Amsterdam, Coordinator and Lecturer
+      * *Topology in and via Logic*, University of Amsterdam, Coordinator and Lecturer, with Amity Aharoni and Rodrigo N. Almeida [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic2023.html){:target="_blank"}
       * *Mathematical Structures in Logic*, University of Amsterdam, Teaching Assistant
       * *Structures for Semantics*, University of Amsterdam, Teaching Assistant
   * <big>**2022/23**
