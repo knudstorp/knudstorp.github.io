@@ -19,7 +19,10 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * TBD, *NihiL Workshop*, January 31 - February 02, 2024
+      * TBD, *Peking University, Logic Seminar*, April 09, 2024
+      * TBD, *Tsinghua Logic Salon*, April 11, 2024
+  * <big>**2024**
+      * "The Decidable and the Undecidable. A Survey of Recent Results", *NihiL Workshop*, February 01 [[slides]](/pdfs/Slides, NihiL Workshop, The Decidable and the Undecidable.pdf){:target="_blank"}
   * <big>**2023**
       * "Modal Information Logics", *Annual VvL Seminar*, December 08 [[slides]](/pdfs/Slides, VvL Award, Modal Information Logics.pdf){:target="_blank"}
       * "Modal Information Logics: Axiomatizations and Decidability", *GALAI Seminar*, Chapman University, October 18 [[slides]](/pdfs/Slides, GALAI, Chapman, Modal Information Logics.pdf){:target="_blank"}
