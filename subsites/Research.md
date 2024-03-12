@@ -19,6 +19,7 @@ layout: page
 -----------
 
   * <big>**Upcoming**
+      * "How to Split a Relation", *TLLM IV, The Connectives in Logic and Language*, Tsinghua University, joint talk with A. Anttila, M. Degano, and T. Klochowicz, March 30-31, 2024
       * TBD, *Peking University, Logic Seminar*, April 09, 2024
       * TBD, *Tsinghua Logic Salon*, April 11, 2024
   * <big>**2024**
