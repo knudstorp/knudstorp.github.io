@@ -22,6 +22,7 @@ layout: page
       * TBD, *Peking University, Logic Seminar*, April 09, 2024
       * TBD, *Tsinghua Logic Salon*, April 11, 2024
   * <big>**2024**
+      * "Expressive Power. BSML and Propositional Independence Logic", *Dagstuhl Seminar*, March 12 [[slides]](/pdfs/Slides, Dagstuhl, Expressive Power. BSML and Propositional Independence Logic.pdf){:target="_blank"}
       * "The Decidable and the Undecidable. A Survey of Recent Results", *NihiL Workshop*, February 01 [[slides]](/pdfs/Slides, NihiL Workshop, The Decidable and the Undecidable.pdf){:target="_blank"}
   * <big>**2023**
       * "Modal Information Logics", *Annual VvL Seminar*, December 08 [[slides]](/pdfs/Slides, VvL Award, Modal Information Logics.pdf){:target="_blank"}
