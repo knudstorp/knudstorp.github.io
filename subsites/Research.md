@@ -19,9 +19,10 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * "Features of (Un)decidable Logics", *Peking University, Logic Seminar*, April 09, 2024
-      * "Axiomatizing Step-by-Step", *Tsinghua University, Tsing Ch’a Session*, April 11, 2024
+      * Stay tuned :-)
   * <big>**2024**
+      * "Axiomatizing Step-by-Step", *Tsinghua University, Tsing Ch’a Session*, April 11 [[slides]](/pdfs/Slides, Tsinghua University, Axiomatizing Step-by-Step.pdf){:target="_blank"}
+      * "Features of (Un)decidable Logics", *Peking University, Logic Seminar*, April 09 [[slides]](/pdfs/Slides, Peking University, Features of (Un)decidable Logics.pdf){:target="_blank"}
       * "Expressive Power. BSML and Propositional Independence Logic", *Dagstuhl Seminar*, March 12 [[slides]](/pdfs/Slides, Dagstuhl, Expressive Power. BSML and Propositional Independence Logic.pdf){:target="_blank"}
       * "The Decidable and the Undecidable. A Survey of Recent Results", *NihiL Workshop*, February 01 [[slides]](/pdfs/Slides, NihiL Workshop, The Decidable and the Undecidable.pdf){:target="_blank"}
   * <big>**2023**
