@@ -19,7 +19,7 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * Stay tuned :-)
+      * "Relevant **S** is Undecidable", *LICS 2024*, Tallinn, Estonia, July 08-12
   * <big>**2024**
       * "Axiomatizing Step-by-Step", *Tsinghua University, Tsing Ch’a Session*, April 11 [[slides]](/pdfs/Slides, Tsinghua University, Axiomatizing Step-by-Step.pdf){:target="_blank"}
       * "Features of (Un)decidable Logics", *Peking University, Logic Seminar*, April 09 [[slides]](/pdfs/Slides, Peking University, Features of (Un)decidable Logics.pdf){:target="_blank"}
