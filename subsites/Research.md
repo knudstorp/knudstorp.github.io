@@ -7,9 +7,11 @@ layout: page
 
 -----------
 
-  * <big>**Papers**
+  * <big>**Journal articles**
       * "Logics of Truthmaker Semantics: Comparison, Compactness and Decidability", *Synthese, 202*, 206, 2023 [[open access]](https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f){:target="_blank"}
       * "Modal Information Logics: Axiomatizations and Decidability", *Journal of Philosophical Logic, 52*, 1723-1766, 2023 [[open access]](https://doi.org/10.1007/s10992-023-09724-5){:target="_blank"}
+  * <big>**Proceedings**
+      * "Relevant **S** is Undecidable", *Proceedings of the 39th Annual ACM/IEEE Symposium on Logic in Computer Science*, 51, 2024 [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"}
   * <big>**Lecture notes**
       * Topology Project Lecture Notes, Master of Logic, ILLC, jointly authored with Amity Aharoni and Rodrigo N. Almeida [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
 
@@ -19,7 +21,7 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * "Relevant **S** is Undecidable", *LICS 2024*, Tallinn, Estonia, July 08-11
+      * "Relevant **S** is Undecidable", *LICS 2024*, Tallinn, Estonia, July 08-11 [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"}
   * <big>**2024**
       * "Axiomatizing Step-by-Step", *Tsinghua University, Tsing Ch’a Session*, April 11 [[slides]](/pdfs/Slides, Tsinghua University, Axiomatizing Step-by-Step.pdf){:target="_blank"}
       * "Features of (Un)decidable Logics", *Peking University, Logic Seminar*, April 09 [[slides]](/pdfs/Slides, Peking University, Features of (Un)decidable Logics.pdf){:target="_blank"}
