@@ -6,6 +6,11 @@ layout: page
 #### <Big>TEACHING
 
 -----------
+  * <big>**2024/25**
+      * *Meaning, Reference and Modality*, University of Amsterdam, Teaching Assistant
+      * *Mathematical Proof Methods for Logic*, University of Amsterdam, Teaching Assistant
+      * *Philosophical Logic*, University of Amsterdam, Teaching Assistant
+      * *Proof Theory*, University of Amsterdam, Teaching Assistant
   * <big>**2023/24**
       * *Topology in and via Logic*, University of Amsterdam, Coordinator and Lecturer, with Amity Aharoni and Rodrigo N. Almeida [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic2023.html){:target="_blank"}
       * *Mathematical Structures in Logic*, University of Amsterdam, Teaching Assistant
