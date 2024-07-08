@@ -21,7 +21,7 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * "Relevant **S** is Undecidable", *LICS 2024*, Tallinn, Estonia, July 08 [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"}  [[slides]](/pdfs/LICS 24, Relevant S is Undecidable (slides).pdf){:target="_blank"}
+      * "Relevant **S** is Undecidable", *LICS 2024*, Tallinn, Estonia, July 08 [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"} 
   * <big>**2024**
       * "Axiomatizing Step-by-Step", *Tsinghua University, Tsing Ch’a Session*, April 11 [[slides]](/pdfs/Slides, Tsinghua University, Axiomatizing Step-by-Step.pdf){:target="_blank"}
       * "Features of (Un)decidable Logics", *Peking University, Logic Seminar*, April 09 [[slides]](/pdfs/Slides, Peking University, Features of (Un)decidable Logics.pdf){:target="_blank"}
