@@ -21,7 +21,8 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * Stay tuned :)
+      * TBD, *LLAMA Seminar*, September 25
+      * TBD, *Marco Degano's PhD Defense Workshop*, joint talk with Aleksi Anttila, October 16 
   * <big>**2024**
       * "Relevant **S** is Undecidable", *LICS 2024*, Tallinn, Estonia, July 08 [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"} [[slides]](/pdfs/Slides, LICS 24, Relevant S is Undecidable (without pauses).pdf){:target="_blank"}
       * "Axiomatizing Step-by-Step", *Tsinghua University, Tsing Ch’a Session*, April 11 [[slides]](/pdfs/Slides, Tsinghua University, Axiomatizing Step-by-Step.pdf){:target="_blank"}
