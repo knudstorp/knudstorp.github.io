@@ -9,7 +9,7 @@ layout: page
 
   * <big>**Journal articles**
       * "Logics of Truthmaker Semantics: Comparison, Compactness and Decidability", *Synthese, 202*, 206, 2023 [[open access]](https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f){:target="_blank"}
-      * "Modal Information Logics: Axiomatizations and Decidability", *Journal of Philosophical Logic, 52*, 1723-1766, 2023 [[open access]](https://doi.org/10.1007/s10992-023-09724-5){:target="_blank"}
+      * "Modal Information Logics: Axiomatizations and Decidability", *Journal of Philosophical Logic, 52*, 1723-1766, 2023 [[archive]](https://philpapers.org/rec/KNULOT-2){:target="_blank"} [[open access]](https://doi.org/10.1007/s10992-023-09724-5){:target="_blank"}
   * <big>**Conference papers**
       * "Relevant **S** is Undecidable", *Proceedings of the 39th Annual ACM/IEEE Symposium on Logic in Computer Science*, 51, 2024 [Kleene Award Winner] [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"}
   * <big>**Lecture notes**
