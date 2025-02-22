@@ -22,7 +22,9 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * "Features of (Un)decidable Logics", *MPP and GALAI Seminar*, Chapman University, February 21, 2025
+      * TBD, *Student Logic Colloquium*, UC Berkeley, February 28 
+  * <big>**2025**
+      * "Features of (Un)decidable Logics", *MPP and GALAI Seminar*, Chapman University, February 21 [[slides]](/pdfs/Slides, MPP and GALAI, Chapman, Features of (Un)decidable Logics.pdf){:target="_blank"}
   * <big>**2024**
       * "Convex Team Logics", *Workshop on the Occasion of Marco Degano's Doctoral Defense*, with Aleksi Anttila, October 16 [[slides]](/pdfs/Slides, Workshop on the Occasion of Marco Degano's Doctoral Defense, Convex Team Logics.pdf){:target="_blank"}
       * "Features of (Un)decidable Logics", *LLAMA Seminar*, September 25 [[slides]](/pdfs/Slides, LLAMA Seminar, Features of (Un)decidable Logics.pdf){:target="_blank"}
