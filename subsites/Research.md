@@ -26,7 +26,7 @@ layout: page
   * <big>**2024**
       * "Convex Team Logics", *Workshop on the Occasion of Marco Degano's Doctoral Defense*, with Aleksi Anttila, October 16 [[slides]](/pdfs/Slides, Workshop on the Occasion of Marco Degano's Doctoral Defense, Convex Team Logics.pdf){:target="_blank"}
       * "Features of (Un)decidable Logics", *LLAMA Seminar*, September 25 [[slides]](/pdfs/Slides, LLAMA Seminar, Features of (Un)decidable Logics.pdf){:target="_blank"}
-      * "Relevant **S** is Undecidable", *LICS 2024*, Tallinn, Estonia, July 08 [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"} [[slides]](/pdfs/Slides, LICS 24, Relevant S is Undecidable (without pauses).pdf){:target="_blank"}
+      * "Relevant **S** is Undecidable", *LICS 2024*, Tallinn, Estonia, July 08 [[slides]](/pdfs/Slides, LICS 24, Relevant S is Undecidable (without pauses).pdf){:target="_blank"} [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"}
       * "Axiomatizing Step-by-Step", *Tsinghua University, Tsing Ch’a Session*, April 11 [[slides]](/pdfs/Slides, Tsinghua University, Axiomatizing Step-by-Step.pdf){:target="_blank"}
       * "Features of (Un)decidable Logics", *Peking University, Logic Seminar*, April 09 [[slides]](/pdfs/Slides, Peking University, Features of (Un)decidable Logics.pdf){:target="_blank"}
       * "Expressive Power. BSML and Propositional Independence Logic", *Dagstuhl Seminar*, March 12 [[slides]](/pdfs/Slides, Dagstuhl, Expressive Power. BSML and Propositional Independence Logic.pdf){:target="_blank"}
