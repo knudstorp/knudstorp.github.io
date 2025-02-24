@@ -22,7 +22,7 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * TBD, *Student Logic Colloquium*, UC Berkeley, February 28 
+      * "Features of (Un)decidable Logics", *Student Logic Colloquium*, UC Berkeley, February 28 
   * <big>**2025**
       * "Features of (Un)decidable Logics", *MPP and GALAI Seminar*, Chapman University, February 21 [[slides]](/pdfs/Slides, MPP and GALAI, Chapman, Features of (Un)decidable Logics.pdf){:target="_blank"}
   * <big>**2024**
