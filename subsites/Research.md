@@ -36,7 +36,7 @@ layout: page
 
   * <big>**Upcoming**
       * "Axiomatization and Decidability of Tense Information Logic", *WoLLIC 2025*, with Timo Niek Franssen (who will present), July 14, 2025
-      * "Diamonds and Dominoes: Impossibility Results for Associative Modal Logics", *TbiLLC 2025*, September 08-12, 2025
+      * "Diamonds and Dominoes: Impossibility Results for Associative Modal Logics", *TbiLLC 2025*, September 08-12, 2025 <a href="https://knudstorp.github.io/research/" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * "Axiomatization and Decidability of Tense Information Logic", *TbiLLC 2025*, with Timo Niek Franssen (who will present), September 08-12, 2025
   * <big>**2025**
       * "Features of (Un)decidable Logics", *Student Logic Colloquium*, UC Berkeley, February 28 <a href="/pdfs/Slides, SLC, UC Berkeley, Features of (Un)decidable Logics.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
