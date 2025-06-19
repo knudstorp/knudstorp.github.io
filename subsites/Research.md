@@ -12,14 +12,14 @@ layout: page
         *Submitted* [[preprint]](https://knudstorp.github.io/research/){:target="_blank"}
       * <span style="color: rgb(34, 139, 34);">Convex Team Logics</span> <br>
         *Submitted* [[preprint]](https://arxiv.org/abs/2503.21850){:target="_blank"}
-      * <text style="color: rgb(34, 139, 34);">Logics of Truthmaker Semantics: Comparison, Compactness and Decidability</text> <br>
+      * <span style="color:  #2F4F4F;">Logics of Truthmaker Semantics: Comparison, Compactness and Decidability</span> <br>
         *Synthese, 202*, 206, 2023 [[preprint]](https://philpapers.org/rec/KNULOT-2){:target="_blank"} [[open access]](https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f){:target="_blank"}
-      * <text style="color: rgb(34, 139, 34);">Modal Information Logics: Axiomatizations and Decidability</text> <br>
+      * <span style="color:  #2C3E50;">Modal Information Logics: Axiomatizations and Decidability</span> <br>
         *Journal of Philosophical Logic, 52*, 1723-1766, 2023 [[open access]](https://doi.org/10.1007/s10992-023-09724-5){:target="_blank"}
   * <big>**Conference papers**
-      * <text style="color: rgb(34, 139, 34);">The Modal Logic of Minimal Upper Bounds</text> <br>
+      * <span style="color:  #333333;">The Modal Logic of Minimal Upper Bounds</span> <br>
         *Language, Logic, and Computation. 14th International Tbilisi Symposium, TbiLLC 2023, Telavi, Georgia*, forthcoming [[preprint]](https://arxiv.org/abs/2411.15940){:target="_blank"}
-      * <text style="color: rgb(34, 139, 34);">Relevant **S** is Undecidable</text> <br>
+      * <span style="color:  #1B4D3E;">Relevant **S** is Undecidable</span> <br>
         *Proceedings of the 39th Annual ACM/IEEE Symposium on Logic in Computer Science*, 51, 2024 [Kleene Award Winner] [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"}
   * <big>**Lecture notes**
       * Topology Project Lecture Notes, Master of Logic, ILLC, jointly authored with Amity Aharoni and Rodrigo N. Almeida [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
