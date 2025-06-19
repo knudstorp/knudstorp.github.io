@@ -10,20 +10,20 @@ layout: page
   * <big>**Journal articles**
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
         *Submitted* [[preprint]](https://knudstorp.github.io/research/){:target="_blank"}
-      * <span style="color:  #4CAA55;">Convex Team Logics</span> <br>
+      * <span style="color:  #2E8B57;">Convex Team Logics</span> <br>
         (with Aleksi Anttila) <br>
         *Submitted* [[preprint]](https://arxiv.org/abs/2503.21850){:target="_blank"}
-      * <span style="color:  #4CAA55;">Logics of Truthmaker Semantics: Comparison, Compactness and Decidability</span> <br>
+      * <span style="color:  #2E8B57;">Logics of Truthmaker Semantics: Comparison, Compactness and Decidability</span> <br>
         *Synthese, 202*, 206, 2023 [[preprint]](https://philpapers.org/rec/KNULOT-2){:target="_blank"} [[open access]](https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f){:target="_blank"}
-      * <span style="color:  #4CAA55;">Modal Information Logics: Axiomatizations and Decidability</span> <br>
+      * <span style="color:  #2E8B57;">Modal Information Logics: Axiomatizations and Decidability</span> <br>
         *Journal of Philosophical Logic, 52*, 1723-1766, 2023 [[open access]](https://doi.org/10.1007/s10992-023-09724-5){:target="_blank"}
   * <big>**Conference papers**
-      * <span style="color:  #4CAA55;">The Modal Logic of Minimal Upper Bounds</span> <br>
+      * <span style="color:  #2E8B57;">The Modal Logic of Minimal Upper Bounds</span> <br>
         *Language, Logic, and Computation. 14th International Tbilisi Symposium, TbiLLC 2023, Telavi, Georgia*, forthcoming [[preprint]](https://arxiv.org/abs/2411.15940){:target="_blank"}
-      * <span style="color:  #4CAA55;">Relevant **S** is Undecidable</span> <br>
+      * <span style="color:  #2E8B57;">Relevant **S** is Undecidable</span> <br>
         *Proceedings of the 39th Annual ACM/IEEE Symposium on Logic in Computer Science*, 51, 2024 [Kleene Award Winner] [[open access]](https://doi.org/10.1145/3661814.3662128){:target="_blank"}
   * <big>**Lecture notes**
-      * <span style="color:  #4CAA55;">Topology Project Lecture Notes</span> <br>
+      * <span style="color:  #2E8B57;">Topology Project Lecture Notes</span> <br>
         (with Amity Aharoni and Rodrigo N. Almeida) <br>
         Master of Logic, ILLC  [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
 
