@@ -11,21 +11,21 @@ layout: page
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
         Submitted <a href="https://knudstorp.github.io/research/" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Convex Team Logics <br>
-        (with Aleksi Anttila) <br>
+        joint work with Aleksi Anttila <br>
         Submitted <a href="https://arxiv.org/abs/2503.21850" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Logics of Truthmaker Semantics: Comparison, Compactness and Decidability <br>
-        *Synthese, 202*, 206, 2023 <a href="https://philpapers.org/rec/KNULOT-2" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f" style="color: #0a71e0; text-decoration: none;">
+        *Synthese*, 2023 <a href="https://philpapers.org/rec/KNULOT-2" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f" style="color: #0a71e0; text-decoration: none;">
       * Modal Information Logics: Axiomatizations and Decidability <br>
-        *Journal of Philosophical Logic, 52*, 1723-1766, 2023 <a href="https://doi.org/10.1007/s10992-023-09724-5" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
+        *Journal of Philosophical Logic*, 2023 <a href="https://doi.org/10.1007/s10992-023-09724-5" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
   * <big>**Conference papers**
       * The Modal Logic of Minimal Upper Bounds <br>
-        *Language, Logic, and Computation. 14th International Tbilisi Symposium, TbiLLC 2023, Telavi, Georgia*, forthcoming <a href="https://arxiv.org/abs/2411.15940" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
+        *Proceedings of TbiLLC 2023*, forthcoming <a href="https://arxiv.org/abs/2411.15940" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Relevant **S** is Undecidable <br>
-        *Proceedings of the 39th Annual ACM/IEEE Symposium on Logic in Computer Science*, 51, 2024 [Kleene Award Winner] <a href="https://doi.org/10.1145/3661814.3662128" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
+        *Proceedings of LICS 2024* [Kleene Award Winner] <a href="https://doi.org/10.1145/3661814.3662128" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
   * <big>**Lecture notes**
-      * <span style="color:  #2E8B57;">Topology Project Lecture Notes</span> <br>
-        (with Amity Aharoni and Rodrigo N. Almeida) <br>
-        Master of Logic, ILLC  [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
+      * Topology Project Lecture Notes <br>
+        jointly authored with Amity Aharoni and Rodrigo N. Almeida <br>
+        Master of Logic, ILLC <a href="/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf" style="color: #0a71e0; text-decoration: none;">[notes]</a>{:target="_blank"} [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"}
 
 <br />
 #### <Big>TALKS
