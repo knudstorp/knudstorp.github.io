@@ -27,3 +27,11 @@ layout: page
       *  *Mathematics*, Bagsværd Kostskole og Gymnasium, High School Teacher
   * <big>**2018/19**
       *  *Linear Algebra*, Aalborg University Copenhagen, Teaching Assistant
+
+<br />
+#### <Big>SUPERVISION
+
+-----------
+  * <big>**Ongoing**
+     * Timo Niek Franssen, University of Amsterdam, Master of Logic Thesis, co-supervised with Nick Bezhanishvili
+     * Josef von Hoffmann Doyle, University of Amsterdam, Master of Logic Thesis, co-supervised with Nick Bezhanishvili
