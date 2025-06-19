@@ -10,7 +10,7 @@ layout: page
   * <big>**Journal articles**
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
         *Submitted* [[preprint]](https://knudstorp.github.io/research/){:target="_blank"}
-      * style="color: rgb(34, 139, 34);"Convex Team Logics <br>
+      * <span style="color: rgb(34, 139, 34);">Convex Team Logics</span> <br>
         *Submitted* [[preprint]](https://arxiv.org/abs/2503.21850){:target="_blank"}
       * <text style="color: rgb(34, 139, 34);">Logics of Truthmaker Semantics: Comparison, Compactness and Decidability</text> <br>
         *Synthese, 202*, 206, 2023 [[preprint]](https://philpapers.org/rec/KNULOT-2){:target="_blank"} [[open access]](https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f){:target="_blank"}
