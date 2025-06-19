@@ -25,7 +25,7 @@ layout: page
   * <big>**Lecture notes**
       * <span style="color:  #2E8B57;">Topology Project Lecture Notes</span> <br>
         (with Amity Aharoni and Rodrigo N. Almeida) <br>
-        Master of Logic, ILLC,  [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
+        Master of Logic, ILLC  [[notes]](/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf){:target="_blank"} [[website]](https://rodrigonalmeida.github.io/projects/topologyInAndViaLogic.md.html){:target="_blank"}
 
 <br />
 #### <Big>TALKS
