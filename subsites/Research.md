@@ -9,7 +9,7 @@ layout: page
 
   * <big>**Journal articles**
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
-        Submitted [<span style="color:  #0a71e0;">[preprint]</span>](https://knudstorp.github.io/research/){:target="_blank"}
+        Submitted [<span style="color:  #0a71e0;">[preprint]</span>](https://knudstorp.github.io/research/){:target="_blank"} <a href="https://example.com" style="text-decoration: none;">Link without underline</a>
       * <span style="color:  #2E8B57;">Convex Team Logics</span> <br>
         (with Aleksi Anttila) <br>
         *Submitted* [[preprint]](https://arxiv.org/abs/2503.21850){:target="_blank"}
