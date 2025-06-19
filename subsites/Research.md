@@ -19,6 +19,7 @@ layout: page
         *Journal of Philosophical Logic*, 2023 <a href="https://doi.org/10.1007/s10992-023-09724-5" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
   * <big>**Conference papers**
       * Axiomatization and Decidability of Tense Information Logic <br>
+        joint work with Timo Niek Franssen <br>
         *Proceedings of WoLLIC 2025*, forthcoming
       * The Modal Logic of Minimal Upper Bounds <br>
         *Proceedings of TbiLLC 2023*, forthcoming <a href="https://arxiv.org/abs/2411.15940" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
