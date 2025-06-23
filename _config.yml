@@ -14,8 +14,7 @@ paginate_path: /page:num/
 remote_theme: mmistakes/so-simple-theme@3.2.0
 
 url: "https://knudstorp.github.io"
-#logo: /images/Billede til ansøgninger F, resized.png
-logo: /images/bus.jpeg
+logo: /images/Billede til ansøgninger F, resized.png
 
 skin: "/assets/css/skins/default.css"
 #skin: "/assets/css/skins/dark.css"
