@@ -24,7 +24,7 @@ layout: page
       * The Modal Logic of Minimal Upper Bounds <br>
         *Proceedings of TbiLLC 2023*, forthcoming <a href="https://arxiv.org/abs/2411.15940" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Relevant **S** is Undecidable <br>
-        *Proceedings of LICS 2024* [Kleene Award Winner] <a href="https://doi.org/10.1145/3661814.3662128" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
+        *Proceedings of LICS 2024*, 2024 (Kleene Award Winner) <a href="https://doi.org/10.1145/3661814.3662128" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
   * <big>**Lecture notes**
       * Topology Project Lecture Notes <br>
         jointly authored with Amity Aharoni and Rodrigo N. Almeida <br>
