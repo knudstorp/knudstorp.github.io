@@ -36,8 +36,8 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * "Diamonds and Dominoes: Impossibility Results for Associative Modal Logics", *TbiLLC 2025*, September 08-12, 2025 <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
-      * "Axiomatization and Decidability of Tense Information Logic", *TbiLLC 2025*, with Timo Niek Franssen (who will present), September 08-12, 2025
+      * "Diamonds and Dominoes: Impossibility Results for Associative Modal Logics", *TbiLLC 2025*, September 11, 2025 <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
+      * "Axiomatization and Decidability of Tense Information Logic", *TbiLLC 2025*, with Timo Niek Franssen (who will present), September 11, 2025
   * <big>**2025**
       * "Axiomatization and Decidability of Tense Information Logic", *WoLLIC 2025*, with Timo Niek Franssen (presenter), July 14
       * "Features of (Un)decidable Logics", *Student Logic Colloquium*, UC Berkeley, February 28 <a href="/pdfs/Slides, SLC, UC Berkeley, Features of (Un)decidable Logics.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
