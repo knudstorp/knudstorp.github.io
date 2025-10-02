@@ -7,6 +7,9 @@ layout: page
 
 -----------
 
+  * <big>**Preprints**
+      * Knocking Down Boxes: The FMP for \\( \mathbf{K}\oplus \Box^{m+k} p\to\Box^m p \\) <br>
+        To be submitted <a href="https://arxiv.org/abs/2510.00864" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
   * <big>**Journal articles**
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
         Submitted <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
