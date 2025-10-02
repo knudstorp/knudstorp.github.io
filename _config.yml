@@ -22,8 +22,16 @@ skin: "/assets/css/skins/default.css"
 
 date_format: "%d-%m-%Y"
 locale: en-us
-mathjax:
-  enable: true
+#mathjax:
+#  enable: true
+markdown: kramdown
+kramdown:
+  input: GFM
+  # let MathJax do the TeX parsing in the browser:
+  math_engine: null
+  parse_block_html: true
+
+
 
 google_fonts:
   - name: "Source Sans Pro"
