@@ -37,8 +37,9 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * "Truthmakers and Information States: Inclusion, Containment, Duality", *Workshop on Truthmakers, Possibilities, and Information States*, Prague, November 18, 2025 <a href="/pdfs/Slides, Truthmakers and Information States. Inclusion, Containment, Duality.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
+      * Stay tuned :)
   * <big>**2025**
+      * "Truthmakers and Information States: Inclusion, Containment, Duality", *Workshop on Truthmakers, Possibilities, and Information States*, Prague, November 18, 2025 <a href="/pdfs/Slides, Prague, Truthmakers and Information States. Inclusion, Containment, Duality.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
       * "Diamonds and Dominoes: Impossibility Results for Associative Modal Logics", *TbiLLC 2025*, September 11 <a href="/pdfs/Slides, TbiLLC 2025, Diamonds and Dominoes.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"} <a href="/pdfs/Abstract, TbiLLC 2025, Diamonds and Dominoes.pdf" style="color: #0a71e0; text-decoration: none;">[abstract]</a>{:target="_blank"} <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * "Axiomatization and Decidability of Tense Information Logic", *TbiLLC 2025*, with Timo Niek Franssen (presenter), September 11
       * "Axiomatization and Decidability of Tense Information Logic", *WoLLIC 2025*, with Timo Niek Franssen (presenter), July 14
