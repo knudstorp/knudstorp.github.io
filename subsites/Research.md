@@ -19,8 +19,11 @@ layout: page
       * Modal Information Logics: Axiomatizations and Decidability <br>
         *Journal of Philosophical Logic*, 2023 <a href="https://doi.org/10.1007/s10992-023-09724-5" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
   * <big>**Conference papers**
+      * The Logic of Bunched Implications is Undecidable <br>
+        with Peter Jipsen, Nick Galatos, and Revantha Ramanayake <br>
+        Submitted
       * Axiomatization and Decidability of Tense Information Logic <br>
-        joint work with Timo Niek Franssen <br>
+        with Timo Niek Franssen <br>
         *Proceedings of WoLLIC 2025* <a href="https://doi.org/10.1007/978-3-031-99536-1_10" style="color: #0a71e0; text-decoration: none;">[doi]</a>{:target="_blank"}
       * The Modal Logic of Minimal Upper Bounds <br>
         *Proceedings of TbiLLC 2023*, forthcoming <a href="https://arxiv.org/abs/2411.15940" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
