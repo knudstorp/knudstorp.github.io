@@ -12,7 +12,7 @@ layout: page
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
         Submitted <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Convex Team Logics <br>
-        joint work with Aleksi Anttila <br>
+        with Aleksi Anttila <br>
         Submitted <a href="https://arxiv.org/abs/2503.21850" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Logics of Truthmaker Semantics: Comparison, Compactness and Decidability <br>
         *Synthese*, 2023 <a href="https://philpapers.org/rec/KNULOT-2" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
