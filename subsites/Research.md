@@ -20,7 +20,7 @@ layout: page
         *Journal of Philosophical Logic*, 2023 <a href="https://doi.org/10.1007/s10992-023-09724-5" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
   * <big>**Conference papers**
       * The Logic of Bunched Implications is Undecidable <br>
-        with Peter Jipsen, Nick Galatos, and Revantha Ramanayake <br>
+        with Nick Galatos, Peter Jipsen, and Revantha Ramanayake <br>
         Submitted
       * Axiomatization and Decidability of Tense Information Logic <br>
         with Timo Niek Franssen <br>
