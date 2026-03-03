@@ -21,7 +21,7 @@ layout: page
   * <big>**Conference papers**
       * The Logic of Bunched Implications is Undecidable <br>
         with Nick Galatos, Peter Jipsen, and Revantha Ramanayake <br>
-        Submitted
+        Submitted <a href="https://arxiv.org/abs/2603.01595" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Axiomatization and Decidability of Tense Information Logic <br>
         with Timo Niek Franssen <br>
         *Proceedings of WoLLIC 2025* <a href="https://doi.org/10.1007/978-3-031-99536-1_10" style="color: #0a71e0; text-decoration: none;">[doi]</a>{:target="_blank"}
