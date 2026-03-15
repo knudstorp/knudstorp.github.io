@@ -8,6 +8,6 @@ Hi, and welcome to my academic website! I'm Søren, a PhD candidate in Logic at 
 
 I hold a <a href="https://eprints.illc.uva.nl/id/eprint/2226/" style="color: #0a71e0; text-decoration: none;">master's</a>{:target="_blank"} degree in Logic from the ILLC, University of Amsterdam, a bachelor's in Mathematics from the University of Copenhagen, and a keen interest in philosophy, mathematics, and logic. <!-- Currently, I am particularly interested in understanding how logics relate. -->
 
-| <a href="https://knudstorp.github.io/research/" style="text-decoration: none;"><i>Research</i></a> | <a href="https://knudstorp.github.io/teaching/" style="text-decoration: none;"><i>Teaching</i></a> |
+| <a href="https://knudstorp.github.io/research/" style="text-decoration: none;">Research</a> | <a href="https://knudstorp.github.io/teaching/" style="text-decoration: none;">Teaching</a> |
 | :---: | :---: |
 | [![Research](/images/puzzle, research, resized.jpg)](https://knudstorp.github.io/research/) | [![Teaching](/images/blackboard, teaching, resized.jpg)](https://knudstorp.github.io/teaching/) |
