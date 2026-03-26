@@ -7,3 +7,45 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
+
+<style>
+@media (max-width: 700px) {
+  nav,
+  header nav,
+  .site-nav,
+  .navigation {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    max-height: none !important;
+    overflow: visible !important;
+  }
+
+  nav ul,
+  header nav ul,
+  .site-nav ul,
+  .navigation ul {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.4rem !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  nav li,
+  header nav li,
+  .site-nav li,
+  .navigation li {
+    display: block !important;
+  }
+
+  nav a,
+  header nav a,
+  .site-nav a,
+  .navigation a {
+    display: block !important;
+    padding: 0.35rem 0 !important;
+    pointer-events: auto !important;
+  }
+}
+</style>
