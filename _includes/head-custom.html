@@ -29,3 +29,16 @@
   pointer-events: auto;
 }
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const toggle = document.querySelector(".greedy-nav button");
+  const menu = document.querySelector(".greedy-nav .visible-links");
+
+  if (toggle && menu) {
+    toggle.addEventListener("click", function() {
+      menu.classList.toggle("active");
+    });
+  }
+});
+</script>
