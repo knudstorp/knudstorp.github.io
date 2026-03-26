@@ -8,98 +8,12 @@
 <meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
-<!-- Mobile menu CSS -->
 <style>
-/* Desktop nav stays visible normally */
-nav, header nav, .site-nav, .navigation {
-  display: block;
-}
-
-/* Mobile adjustments */
 @media (max-width: 700px) {
-  /* Menu container styling */
   nav, header nav, .site-nav, .navigation {
-    display: block;
-    background-color: #ffffff;
-    position: absolute;
-    top: 3rem; /* leave space for button */
-    left: 0;
-    width: 100%;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    border-bottom-left-radius: 6px;
-    border-bottom-right-radius: 6px;
-    overflow: hidden;
-    max-height: 0;
-    transition: max-height 0.3s ease;
-    z-index: 999;
-  }
-
-  /* Show menu when active */
-  nav.active, header nav.active, .site-nav.active, .navigation.active {
-    max-height: 500px; /* adjust if you have many links */
-  }
-
-  /* Stack links nicely */
-  nav ul, header nav ul, .site-nav ul, .navigation ul {
-    display: flex;
-    flex-direction: column;
-    gap: 0.6rem;
-    margin: 0;
-    padding: 1rem;
-  }
-  nav li, header nav li, .site-nav li, .navigation li {
-    display: block;
-  }
-  nav a, header nav a, .site-nav a, .navigation a {
-    display: block;
-    padding: 0.5rem 0;
-    font-size: 1.1em;
-    text-decoration: none;
-    color: #0a71e0;
-  }
-
-  /* Hamburger button */
-  #mobile-menu-toggle {
-    display: block;
-    font-size: 1.8em;
-    background: none;
-    border: none;
-    cursor: pointer;
-    margin-bottom: 0.5rem;
-  }
-}
-
-/* Hide button on desktop */
-@media (min-width: 701px) {
-  #mobile-menu-toggle {
-    display: none;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
   }
 }
 </style>
-
-<!-- Mobile menu JS -->
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const nav = document.querySelector("nav, header nav, .site-nav, .navigation");
-  if (!nav) return;
-
-  // Create hamburger button if it doesn't exist
-  if (!document.getElementById("mobile-menu-toggle")) {
-    const btn = document.createElement("button");
-    btn.textContent = "☰ Menu";
-    btn.id = "mobile-menu-toggle";
-    nav.parentNode.insertBefore(btn, nav);
-
-    btn.addEventListener("click", function() {
-      nav.classList.toggle("active");
-    });
-
-    // Make sure desktop resize works
-    window.addEventListener("resize", function() {
-      if (window.innerWidth > 700) {
-        nav.classList.remove("active");
-      }
-    });
-  }
-});
-</script>
