@@ -8,7 +8,9 @@
 <meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
+<!-- Mobile menu fixes -->
 <style>
+/* Ensure mobile menu button sits above everything */
 .greedy-nav {
   position: relative;
   z-index: 1000;
@@ -18,21 +20,28 @@
   position: relative;
   z-index: 1001;
 }
-</style>
 
-<style>
+/* Prevent hero overlay from blocking taps */
 .page__hero {
   pointer-events: none;
 }
-
 .page__hero * {
   pointer-events: auto;
 }
+
+/* Mobile menu toggle: hide by default, show when active */
+.greedy-nav .visible-links {
+  display: none;
+}
+.greedy-nav .visible-links.active {
+  display: block;
+}
 </style>
 
+<!-- Mobile menu toggle JS -->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const toggle = document.querySelector(".greedy-nav button");
+  const toggle = document.querySelector("#menu-toggle");
   const menu = document.querySelector(".greedy-nav .visible-links");
 
   if (toggle && menu) {
