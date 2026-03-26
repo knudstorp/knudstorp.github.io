@@ -8,44 +8,85 @@
 <meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
+<!-- Mobile menu CSS (minimal adjustments) -->
 <style>
-@media (max-width: 700px) {
-  nav,
-  header nav,
-  .site-nav,
-  .navigation {
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    max-height: none !important;
-    overflow: visible !important;
-  }
+/* Ensure nav uses normal display for desktop */
+nav, header nav, .site-nav, .navigation {
+  display: block;
+}
 
+/* Optional: make menu links stack nicely on mobile */
+@media (max-width: 700px) {
   nav ul,
   header nav ul,
   .site-nav ul,
   .navigation ul {
-    display: flex !important;
-    flex-direction: column !important;
-    gap: 0.4rem !important;
-    margin: 0 !important;
-    padding: 0 !important;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    margin: 0;
+    padding: 0;
   }
-
   nav li,
   header nav li,
   .site-nav li,
   .navigation li {
-    display: block !important;
+    display: block;
   }
-
   nav a,
   header nav a,
   .site-nav a,
   .navigation a {
-    display: block !important;
-    padding: 0.35rem 0 !important;
-    pointer-events: auto !important;
+    display: block;
+    padding: 0.35rem 0;
   }
 }
 </style>
+
+<!-- Mobile menu toggle JS -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const nav = document.querySelector("nav, header nav, .site-nav, .navigation");
+  if (!nav) return;
+
+  // Create hamburger button
+  const btn = document.createElement("button");
+  btn.textContent = "☰ Menu";
+  btn.id = "mobile-menu-toggle";
+  btn.style.fontSize = "1.5em";
+  btn.style.display = "none"; // hidden by default
+  btn.style.marginBottom = "0.5em";
+  btn.style.background = "none";
+  btn.style.border = "none";
+  btn.style.cursor = "pointer";
+
+  // Insert button before nav
+  nav.parentNode.insertBefore(btn, nav);
+
+  // Hide nav initially on small screens
+  if (window.innerWidth <= 700) {
+    nav.style.display = "none";
+    btn.style.display = "block";
+  }
+
+  // Toggle nav on button click
+  btn.addEventListener("click", function() {
+    if (nav.style.display === "none") {
+      nav.style.display = "block";
+    } else {
+      nav.style.display = "none";
+    }
+  });
+
+  // Update nav display on resize
+  window.addEventListener("resize", function() {
+    if (window.innerWidth > 700) {
+      nav.style.display = "block";
+      btn.style.display = "none";
+    } else {
+      nav.style.display = "none";
+      btn.style.display = "block";
+    }
+  });
+});
+</script>
