@@ -31,7 +31,7 @@ layout: page
         *Proceedings of LICS 2024* <a href="https://lics.siglog.org/archive/kleene-award.html" style="color: #0a71e0; text-decoration: none;">(Kleene Award Winner)</a>{:target="_blank"} <a href="https://doi.org/10.1145/3661814.3662128" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
   * <big>**Lecture notes**
       * Topology Project Lecture Notes <br>
-        jointly authored with Amity Aharoni and Rodrigo N. Almeida <br>
+        jointly authored with Amity Aharoni and Rodrigo Nicolau Almeida <br>
         Master of Logic, ILLC <a href="/pdfs/Lecture notes, Introduction to Topology in and via Logic.pdf" style="color: #0a71e0; text-decoration: none;">[notes]</a>{:target="_blank"}
 
 <br />
