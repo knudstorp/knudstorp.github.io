@@ -16,7 +16,7 @@ layout: page
       * *Mathematical Structures in Logic*, University of Amsterdam, Teaching Assistant
       * *Structures for Semantics*, University of Amsterdam, Teaching Assistant
   * <big>**2022/23**
-      * *Topology in and via Logic*, University of Amsterdam, Coordinator and Lecturer, taught with Rodrigo N. Almeida <a href="https://rodrigonalmeida.github.io/blog/topologyinandvialogic/" style="color: #0a71e0; text-decoration: none;">[website]</a>{:target="_blank"}
+      * *Topology in and via Logic*, University of Amsterdam, Coordinator and Lecturer, taught with Rodrigo Nicolau Almeida <a href="https://rodrigonalmeida.github.io/blog/topologyinandvialogic/" style="color: #0a71e0; text-decoration: none;">[website]</a>{:target="_blank"}
   * <big>**2021/22**
       * *Philosophical Logic*, University of Amsterdam, Teaching Assistant
       * *Introduction to Modal Logic*, University of Amsterdam, Teaching Assistant
