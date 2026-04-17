@@ -40,7 +40,7 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * Stay tuned :)
+      * "The Logic of Bunched Implications is Undecidable", *LICS 2026*, with Nick Galatos, Peter Jipsen, and Revantha Ramanayake, July 20-23
   * <big>**2026**
       * "Truthmakers and Information States: Inclusion, Containment, Duality", *LIRa Seminar*, February 19 <a href="/pdfs/Slides, LIRa, Truthmakers and Information States. Inclusion, Containment, Duality.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
   * <big>**2025**
