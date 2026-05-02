@@ -43,6 +43,7 @@ layout: page
 
   * <big>**Upcoming**
       * "Possibly Relevant Translations", *AiML 2026*, June 29 - July 3
+      * "Teams and Truthmakers: Free Choice Permissions and More", *Directions in Relevant Logic 2026*, with Robert van Rooij, July 6-8
       * "The Logic of Bunched Implications is Undecidable", *LICS 2026*, with Nick Galatos, Peter Jipsen, and Revantha Ramanayake, July 20-23
       * "Bunched Implication Logic is Undecidable", *TACL 2026*, with Nick Galatos (presenter), Peter Jipsen, and Revantha Ramanayake, July 27-31
   * <big>**2026**
