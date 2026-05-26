@@ -42,7 +42,7 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * "Possibly Relevant Translations", *AiML 2026*, June 29 - July 3
+      * "Possibly Relevant Translations", *AiML 2026*, June 29 - July 3 ...
       * "The Good News Translation", *AiML 2026*, with Timo Niek Franssen (presenter), June 29 - July 3
       * "Teams and Truthmakers: Free Choice Permissions and More", *Directions in Relevant Logic 2026*, with Robert van Rooij, July 6-8
       * "The Logic of Bunched Implications is Undecidable", *LICS 2026*, with Nick Galatos, Peter Jipsen, and Revantha Ramanayake, July 20-23
