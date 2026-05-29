@@ -8,7 +8,7 @@ layout: page
 -----------
   * <big>**Journal articles**
       * Undecidability in Relevant Logic <br>
-        Submitted
+        Submitted <a href="https://arxiv.org/abs/2605.29880" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Knocking Down Boxes: The FMP for $\mathbf{K} \oplus \Box^{m+k} p \to \Box^m p$ <br>
         Submitted <a href="https://arxiv.org/abs/2510.00864" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
