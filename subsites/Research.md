@@ -23,7 +23,7 @@ layout: page
   * <big>**Conference papers**
       * The Logic of Bunched Implications is Undecidable <br>
         with Nick Galatos, Peter Jipsen, and Revantha Ramanayake <br>
-        Accepted at *LICS 2026* <a href="https://arxiv.org/abs/2603.01595" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
+        Accepted at *LICS 2026* <a href="https://lics.siglog.org/archive/distinguished-papers.html" style="color: #0a71e0; text-decoration: none;">(Distinguished Paper Award)</a>{:target="_blank"} <a href="https://arxiv.org/abs/2603.01595" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Possibly Relevant Translations <br>
         Accepted at *Advances in Modal Logic 2026* 
       * Axiomatization and Decidability of Tense Information Logic <br>
@@ -49,6 +49,7 @@ layout: page
       * "Teams and Truthmakers: Free Choice Permissions and More", *Directions in Relevant Logic 2026*, with Robert van Rooij, July 6-8
       * "The Logic of Bunched Implications is Undecidable", *LICS 2026*, with Nick Galatos, Peter Jipsen, and Revantha Ramanayake, July 20-23
       * "Bunched Implication Logic is Undecidable", *TACL 2026*, with Nick Galatos (presenter), Peter Jipsen, and Revantha Ramanayake, July 27-31
+      * "Undecidability in Relevant Logic", *Scandinavian Logic Symposium 2026*, August 21-23
   * <big>**2026**
       * "Truthmakers and Information States: Inclusion, Containment, Duality", *LIRa Seminar*, February 19 <a href="/pdfs/Slides, LIRa, Truthmakers and Information States. Inclusion, Containment, Duality.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
   * <big>**2025**
