@@ -25,7 +25,7 @@ layout: page
         with Nick Galatos, Peter Jipsen, and Revantha Ramanayake <br>
         Accepted at *LICS 2026* <a href="https://lics.siglog.org/archive/distinguished-papers.html" style="color: #0a71e0; text-decoration: none;">(Distinguished Paper Award)</a>{:target="_blank"} <a href="https://arxiv.org/abs/2603.01595" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Possibly Relevant Translations <br>
-        Accepted at *Advances in Modal Logic 2026* <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?AiML2026:0934" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
+        *Proceedings of Advances in Modal Logic 2026* <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?AiML2026:0934" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * Axiomatization and Decidability of Tense Information Logic <br>
         with Timo Niek Franssen <br>
         *Proceedings of WoLLIC 2025* <a href="https://doi.org/10.1007/978-3-031-99536-1_10" style="color: #0a71e0; text-decoration: none;">[doi]</a>{:target="_blank"}
