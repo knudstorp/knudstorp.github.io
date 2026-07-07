@@ -44,11 +44,11 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * "Teams and Truthmakers: Free Choice Permissions and More", *Directions in Relevant Logic 2026*, with Robert van Rooij, July 6-8
       * "The Logic of Bunched Implications is Undecidable", *LICS 2026*, with Nick Galatos, Peter Jipsen, and Revantha Ramanayake, July 20-23
       * "Bunched Implication Logic is Undecidable", *TACL 2026*, with Nick Galatos (presenter), Peter Jipsen, and Revantha Ramanayake, July 27-31
       * "Undecidability in Relevant Logic", *Scandinavian Logic Symposium 2026*, August 21-23
   * <big>**2026**
+      * "Teams and Truthmakers: Free Choice Permissions and More", *Directions in Relevant Logic 2026*, with Robert van Rooij, July 7 <a href="/pdfs/Slides, DiRL, Teams and Truthmakers.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
       * "Possibly Relevant Translations", *AiML 2026*, June 29 <a href="/pdfs/Slides, AiML 2026, Possibly Relevant Translations.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"} 
       * "The Good News Translation", *AiML 2026*, with Timo Niek Franssen (presenter), June 29
       * "Truthmakers and Information States: Inclusion, Containment, Duality", *LIRa Seminar*, February 19 <a href="/pdfs/Slides, LIRa, Truthmakers and Information States. Inclusion, Containment, Duality.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
