@@ -23,14 +23,14 @@ layout: page
   * <big>**Conference papers**
       * The Logic of Bunched Implications is Undecidable <br>
         with Nick Galatos, Peter Jipsen, and Revantha Ramanayake <br>
-        *Proceedings of LICS 2026* <a href="https://lics.siglog.org/archive/distinguished-papers.html" style="color: #0a71e0; text-decoration: none;">(Distinguished Paper Award)</a>{:target="_blank"} <a href="https://theoretics.episciences.org/" style="color: #0a71e0; text-decoration: none;">(Invited to *TheoretiCS*)</a>{:target="_blank"} <a href="https://arxiv.org/abs/2603.01595" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.4230/LIPIcs.LICS.2026.46" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
+        *Proceedings of LICS 2026* <a href="https://theoretics.episciences.org/" style="color: #0a71e0; text-decoration: none;">(Invited to *TheoretiCS*)</a>{:target="_blank"} <a href="https://lics.siglog.org/archive/distinguished-papers.html" style="color: #0a71e0; text-decoration: none;">(Distinguished Paper Award)</a>{:target="_blank"} <a href="https://arxiv.org/abs/2603.01595" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.4230/LIPIcs.LICS.2026.46" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
       * Possibly Relevant Translations <br>
         *Proceedings of Advances in Modal Logic 2026* <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?AiML2026:0934" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * Axiomatization and Decidability of Tense Information Logic <br>
         with Timo Niek Franssen <br>
         *Proceedings of WoLLIC 2025* <a href="https://doi.org/10.1007/978-3-031-99536-1_10" style="color: #0a71e0; text-decoration: none;">[doi]</a>{:target="_blank"}
       * Relevant **S** is Undecidable <br>
-        *Proceedings of LICS 2024* <a href="https://lics.siglog.org/archive/kleene-award.html" style="color: #0a71e0; text-decoration: none;">(Kleene Award Winner)</a>{:target="_blank"} <a href="https://doi.org/10.1145/3661814.3662128" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
+        *Proceedings of LICS 2024* <a href="https://lics.siglog.org/archive/kleene-award.html" style="color: #0a71e0; text-decoration: none;">(Kleene Award Winner)</a>{:target="_blank"} <a href="https://lics.siglog.org/archive/2024/Knudstorp-RelevantSisUndecida.html" style="color: #0a71e0; text-decoration: none;">(Distinguished Paper Award)</a>{:target="_blank"} <a href="https://doi.org/10.1145/3661814.3662128" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * The Modal Logic of Minimal Upper Bounds <br>
         *Proceedings of TbiLLC 2023* <a href="https://arxiv.org/abs/2411.15940" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.1007/978-3-032-14339-6_12" style="color: #0a71e0; text-decoration: none;">[doi]</a>{:target="_blank"}
   * <big>**Lecture notes**
