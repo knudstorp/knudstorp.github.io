@@ -32,6 +32,6 @@ layout: page
 #### <Big>SUPERVISION
 
 -----------
-  * <big>**Ongoing**
-     * Timo Niek Franssen, University of Amsterdam, Master of Logic Thesis, supervised with Nick Bezhanishvili
-     * Josef von Hoffmann Doyle, University of Amsterdam, Master of Logic Thesis, supervised with Nick Bezhanishvili
+  <!--* <big>**Ongoing**-->
+   * Timo Niek Franssen, University of Amsterdam, Master of Logic Thesis, supervised with Nick Bezhanishvili
+   * Josef von-Hoffmann Doyle, University of Amsterdam, Master of Logic Thesis, supervised with Nick Bezhanishvili
