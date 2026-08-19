@@ -44,7 +44,7 @@ layout: page
 -----------
 
   * <big>**Upcoming**
-      * "Undecidability in Relevant Logic", *Scandinavian Logic Symposium 2026*, August 21-23
+      * "Undecidability in Relevant Logic", *Scandinavian Logic Symposium 2026*, August 21
   * <big>**2026**
       * "Bunched Implication Logic is Undecidable", *TACL 2026*, with Nick Galatos (presenter), Peter Jipsen, and Revantha Ramanayake, July 27
       * "The Logic of Bunched Implications is Undecidable", *LICS 2026*, with Nick Galatos, Peter Jipsen, and Revantha Ramanayake, July 20 <a href="/pdfs/Slides, LICS 2026, The Logic of Bunched Implications is Undecidable.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
