@@ -8,11 +8,11 @@ layout: page
 -----------
   * <big>**Journal articles**
       * Undecidability in Relevant Logic <br>
-        *Journal of Symbolic Logic* | Forthcoming  <a href="https://arxiv.org/abs/2605.29880" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
+        *Journal of Symbolic Logic* <span class="sep">·</span> Forthcoming  <a href="https://arxiv.org/abs/2605.29880" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Knocking Down Boxes: The FMP for $\mathbf{K} \oplus \Box^{m+k} p \to \Box^m p$ <br>
-        *Journal of Symbolic Logic* | 2026 <a href="https://arxiv.org/abs/2510.00864" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.1017/jsl.2026.10248" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
+        *Journal of Symbolic Logic* <span class="sep">·</span> 2026 <a href="https://arxiv.org/abs/2510.00864" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.1017/jsl.2026.10248" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
-        *Journal of Symbolic Logic* | Forthcoming <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
+        *Journal of Symbolic Logic* <span class="sep">·</span> Forthcoming <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Convex Team Logics <br>
         with Aleksi Anttila <br>
         Submitted. <a href="https://arxiv.org/abs/2503.21850" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
