@@ -8,27 +8,27 @@ layout: page
 -----------
   * <big>**Journal articles**
       * Undecidability in Relevant Logic <br>
-        Forthcoming. *Journal of Symbolic Logic* <a href="https://arxiv.org/abs/2605.29880" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
+        *Journal of Symbolic Logic* | Forthcoming  <a href="https://arxiv.org/abs/2605.29880" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Knocking Down Boxes: The FMP for $\mathbf{K} \oplus \Box^{m+k} p \to \Box^m p$ <br>
-        2026\. *Journal of Symbolic Logic* <a href="https://arxiv.org/abs/2510.00864" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.1017/jsl.2026.10248" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
+        *Journal of Symbolic Logic* | 2026 <a href="https://arxiv.org/abs/2510.00864" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.1017/jsl.2026.10248" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
-        Forthcoming. *Journal of Symbolic Logic* <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
+        *Journal of Symbolic Logic* | Forthcoming <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Convex Team Logics <br>
         with Aleksi Anttila <br>
         Submitted. <a href="https://arxiv.org/abs/2503.21850" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Logics of Truthmaker Semantics: Comparison, Compactness and Decidability <br>
-        2023\. *Synthese* <a href="https://philpapers.org/rec/KNULOT-2" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
+        *Synthese* | 2023 <a href="https://philpapers.org/rec/KNULOT-2" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
       * Modal Information Logics: Axiomatizations and Decidability <br>
-        2023\. *Journal of Philosophical Logic* <a href="https://doi.org/10.1007/s10992-023-09724-5" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
+        *Journal of Philosophical Logic* | 2023 <a href="https://doi.org/10.1007/s10992-023-09724-5" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
   * <big>**Conference papers**
       * The Logic of Bunched Implications is Undecidable <br>
         with Nick Galatos, Peter Jipsen, and Revantha Ramanayake <br>
-        2026\. *Proceedings of LICS* <a href="https://theoretics.episciences.org/" style="color: #0a71e0; text-decoration: none;">(Invited to *TheoretiCS*)</a>{:target="_blank"} <a href="https://lics.siglog.org/archive/distinguished-papers.html" style="color: #0a71e0; text-decoration: none;">(Distinguished Paper Award)</a>{:target="_blank"} <a href="https://arxiv.org/abs/2603.01595" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.4230/LIPIcs.LICS.2026.46" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
+        *Proceedings of LICS* | 2026 <a href="https://theoretics.episciences.org/" style="color: #0a71e0; text-decoration: none;">(Invited to *TheoretiCS*)</a>{:target="_blank"} <a href="https://lics.siglog.org/archive/distinguished-papers.html" style="color: #0a71e0; text-decoration: none;">(Distinguished Paper Award)</a>{:target="_blank"} <a href="https://arxiv.org/abs/2603.01595" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.4230/LIPIcs.LICS.2026.46" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
       * Possibly Relevant Translations <br>
-        2026\. *Proceedings of Advances in Modal Logic* <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?AiML2026:0934" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
+        *Proceedings of Advances in Modal Logic* | 2026 <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?AiML2026:0934" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * Axiomatization and Decidability of Tense Information Logic <br>
         with Timo Niek Franssen <br>
-        2025\. *Proceedings of WoLLIC* <a href="https://doi.org/10.1007/978-3-031-99536-1_10" style="color: #0a71e0; text-decoration: none;">[doi]</a>{:target="_blank"}
+        *Proceedings of WoLLIC* | 2025 <a href="https://doi.org/10.1007/978-3-031-99536-1_10" style="color: #0a71e0; text-decoration: none;">[doi]</a>{:target="_blank"}
       * Relevant **S** is Undecidable <br>
         *Proceedings of LICS* | 2024 <a href="https://lics.siglog.org/archive/kleene-award.html" style="color: #0a71e0; text-decoration: none;">(Kleene Award Winner)</a>{:target="_blank"} <a href="https://lics.siglog.org/archive/2024/Knudstorp-RelevantSisUndecida.html" style="color: #0a71e0; text-decoration: none;">(Distinguished Paper Award)</a>{:target="_blank"} <a href="https://doi.org/10.1145/3661814.3662128" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * The Modal Logic of Minimal Upper Bounds <br>
