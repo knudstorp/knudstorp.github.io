@@ -10,16 +10,16 @@ layout: page
       * Undecidability in Relevant Logic <br>
         Forthcoming. *Journal of Symbolic Logic* <a href="https://arxiv.org/abs/2605.29880" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Knocking Down Boxes: The FMP for $\mathbf{K} \oplus \Box^{m+k} p \to \Box^m p$ <br>
-        2026. *Journal of Symbolic Logic* <a href="https://arxiv.org/abs/2510.00864" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.1017/jsl.2026.10248" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
+        2026\. *Journal of Symbolic Logic* <a href="https://arxiv.org/abs/2510.00864" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.1017/jsl.2026.10248" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
         Forthcoming. *Journal of Symbolic Logic* <a href="https://arxiv.org/abs/2506.16366" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Convex Team Logics <br>
         with Aleksi Anttila <br>
         Submitted <a href="https://arxiv.org/abs/2503.21850" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Logics of Truthmaker Semantics: Comparison, Compactness and Decidability <br>
-        2023. *Synthese* <a href="https://philpapers.org/rec/KNULOT-2" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
+        2023\. *Synthese* <a href="https://philpapers.org/rec/KNULOT-2" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://hdl.handle.net/11245.1/cb831dd9-6b46-4199-a6ba-b42f4d163a8f" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
       * Modal Information Logics: Axiomatizations and Decidability <br>
-        2023. *Journal of Philosophical Logic* <a href="https://doi.org/10.1007/s10992-023-09724-5" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
+        2023\. *Journal of Philosophical Logic* <a href="https://doi.org/10.1007/s10992-023-09724-5" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"} 
   * <big>**Conference papers**
       * The Logic of Bunched Implications is Undecidable <br>
         with Nick Galatos, Peter Jipsen, and Revantha Ramanayake <br>
