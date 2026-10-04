@@ -46,7 +46,7 @@ layout: page
   * <big>**Upcoming**
       * Stay tuned :)
   * <big>**2026**
-      * "On the Undecidability of Medvedev's Logic", *LLAMA Seminar*, September 16 <a href="/pdfs/Slides, LLAMA Seminar, On the Undecidability of Medvedev's Logic.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
+      * "On the Undecidability of Medvedev's Logic", *LLAMA Seminar*, with Rodrigo Nicolau Almeida, September 16 <a href="/pdfs/Slides, LLAMA Seminar, On the Undecidability of Medvedev's Logic.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
       * "Undecidability in Relevant Logic", *Scandinavian Logic Symposium 2026*, August 21 <a href="/pdfs/Slides, SLSS, Copenhagen, Undecidability in Relevant Logic.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
       * "Bunched Implication Logic is Undecidable", *TACL 2026*, with Nick Galatos (presenter), Peter Jipsen, and Revantha Ramanayake, July 27
       * "The Logic of Bunched Implications is Undecidable", *LICS 2026*, with Nick Galatos, Peter Jipsen, and Revantha Ramanayake, July 20 <a href="/pdfs/Slides, LICS 2026, The Logic of Bunched Implications is Undecidable.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
