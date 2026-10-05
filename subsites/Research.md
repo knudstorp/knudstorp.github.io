@@ -61,7 +61,7 @@ layout: page
       * "Axiomatization and Decidability of Tense Information Logic", *WoLLIC 2025*, with Timo Niek Franssen (presenter), July 14
       * "Features of (Un)decidable Logics", *Student Logic Colloquium*, UC Berkeley, February 28 <a href="/pdfs/Slides, SLC, UC Berkeley, Features of (Un)decidable Logics.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
       * "Features of (Un)decidable Logics", *GALAI Seminar*, Chapman University, February 21 <a href="/pdfs/Slides, MPP and GALAI, Chapman, Features of (Un)decidable Logics.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
-      * "An introduction to undecidable logics", *MPP Seminar*, Chapman University, February 20
+      * "An Introduction to Undecidable Logics", *MPP Seminar*, Chapman University, February 20
   * <big>**2024**
       * "Convex Team Logics", *Workshop on the Occasion of Marco Degano's Doctoral Defense*, with Aleksi Anttila, October 16 <a href="/pdfs/Slides, Workshop on the Occasion of Marco Degano's Doctoral Defense, Convex Team Logics.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
       * "Features of (Un)decidable Logics", *LLAMA Seminar*, September 25 <a href="/pdfs/Slides, LLAMA Seminar, Features of (Un)decidable Logics.pdf" style="color: #0a71e0; text-decoration: none;">[slides]</a>{:target="_blank"}
