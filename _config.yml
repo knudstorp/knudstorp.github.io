@@ -50,9 +50,12 @@ footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/s%C3%B8ren-brinck-knudstorp/
     icon: fab fa-linkedin-in
-  - title: Twitter
-    url: https://twitter.com/knudstorp
-    icon: fab fa-twitter
+  - title: CV
+    url: /pdfs/CV_Knudstorp.pdf
+    icon: fas fa-file-pdf
+  #- title: Twitter
+  #  url: https://twitter.com/knudstorp
+  #  icon: fab fa-twitter
   - title: Mail
     url: "mailto:s.b.knudstorp@uva.nl"
     icon: fas fa-envelope
