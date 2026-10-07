@@ -58,7 +58,8 @@ footer_links:
   #  icon: fab fa-twitter
   - title: Mail
     url: "mailto:s.b.knudstorp@uva.nl"
-    icon: fas fa-envelope
+    icon: fa-file-lines
+    #fas fa-envelope
   #- title: GitHub
   #  url: https://github.com/knudstorp
   #  icon: fab fa-github-square
