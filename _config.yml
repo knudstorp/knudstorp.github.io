@@ -52,14 +52,14 @@ footer_links:
     icon: fab fa-linkedin-in
   - title: CV
     url: /pdfs/CV_Knudstorp.pdf
-    icon: fas fa-file-pdf
+    icon: fas fa-file-alt
+    #fas fa-file-pdf
   #- title: Twitter
   #  url: https://twitter.com/knudstorp
   #  icon: fab fa-twitter
   - title: Mail
     url: "mailto:s.b.knudstorp@uva.nl"
-    icon: fa-file-lines
-    #fas fa-envelope
+    icon: fas fa-envelope
   #- title: GitHub
   #  url: https://github.com/knudstorp
   #  icon: fab fa-github-square
