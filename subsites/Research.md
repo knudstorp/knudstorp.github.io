@@ -11,7 +11,7 @@ layout: page
         with Maria Aloni, Alexandru Baltag, Johan van Benthem, Nick Bezhanishvili <br>
         Submitted <a href="https://doi.org/10.48550/arXiv.2610.15680" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
       * Undecidability in Relevant Logic <br>
-        *Journal of Symbolic Logic*, forthcoming <a href="https://arxiv.org/abs/2605.29880" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"}
+        *Journal of Symbolic Logic*, 2026 <a href="https://arxiv.org/abs/2605.29880" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.1017/jsl.2026.10277" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * Knocking Down Boxes: The FMP for $\text{K} \oplus \Box^{m+k} p \to \Box^m p$ <br>
         *Journal of Symbolic Logic*, 2026 <a href="https://arxiv.org/abs/2510.00864" style="color: #0a71e0; text-decoration: none;">[preprint]</a>{:target="_blank"} <a href="https://doi.org/10.1017/jsl.2026.10248" style="color: #0a71e0; text-decoration: none;">[open access]</a>{:target="_blank"}
       * Diamonds and Dominoes: Impossibility Results for Associative Modal Logics <br>
